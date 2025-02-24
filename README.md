@@ -22,10 +22,6 @@ Jiffy is a cross-platform mobile application built with Flutter. Designed as a c
 2. **Install Dependencies**: Run `flutter pub get` in the project directory.
 3. **Run the App**: Use `flutter run` with a connected device or emulator.
 
-## Screenshots
-*(Add screenshots here if available—e.g., map view, delivery screen. Upload images to the repo and link them like: `![Map View](screenshots/map_view.png)`)*
-
-
 
 ## License
 This project is for demonstration purposes and not licensed for commercial use.
